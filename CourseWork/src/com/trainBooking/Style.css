@@ -1,0 +1,6 @@
+#UnSelectedSeats{
+    -fx-background-image: url('unselected.png');
+}
+#SelectedSeats{
+    -fx-background-image: url('selected.png');
+}

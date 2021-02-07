@@ -1,0 +1,129 @@
+
+:
+java:S1643Ş"Use a StringBuilder instead.(Ñ“ëÑ8ß˜‰ö“.
+r	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ŒŞšÿÿÿÿÿ8ß˜‰ö“.
+p
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ğ¨îğ8ß˜‰ö“.
+p
+java:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 74 to the 15 allowed.(èÉ€İ8ß˜‰ö“.
+n	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï§î8ß˜‰ö“.
+s	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ŒŞšÿÿÿÿÿ8ß˜‰ö“.
+Q
+java:S1854o"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ
+g	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é­Ÿá
+B
+java:S1481o"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ
+_
+java:S1854ó"<Remove this useless assignment to local variable "document".(½Ä°¼şÿÿÿÿ8ß˜‰ö“.
+g
+java:S2095Ô"IUse try-with-resources or close this "MongoClient" in a "finally" clause.(¯àªÑ8ß˜‰ö“.
+O
+java:S1602ÿ",Remove useless curly braces around statement(ñğÏşÿÿÿÿ8ß˜‰ö“.
+u
+java:S1192|"SDefine a constant instead of duplicating this literal "Badulla to Colombo" 7 times.(òüşÒıÿÿÿÿ8ß˜‰ö“.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ŒŞšÿÿÿÿÿ8ß˜‰ö“.
+^	java:S125˜"<This block of commented-out lines of code should be removed.(º«Ãºûÿÿÿÿ8ß˜‰ö“.
+Y	java:S110"<This class has 8 parents which is greater than 5 authorized.(øÖÙĞ8ß˜‰ö“.
+g	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é­Ÿá
+p
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(á» ş8ß˜‰ö“.
+s
+java:S1192Ï"PDefine a constant instead of duplicating this literal "UnSelectedSeats" 3 times.(“°ÑÚüÿÿÿÿ8ß˜‰ö“.
+Y	java:S125›"<This block of commented-out lines of code should be removed.(ÿŒ£Å8ß˜‰ö“.
+Š
+java:S1192—"gDefine a constant instead of duplicating this literal "Please Select the Date and Destination" 6 times.(àÕ¡áøÿÿÿÿ8ß˜‰ö“.
+•
+java:S1192m"Define a constant instead of duplicating this literal "************************************************************\n" 5 times.(ë™İ¹
+]
+java:S1192Î"FDefine a constant instead of duplicating this literal "seat " 3 times.(È®”­
+Y
+java:S1854û"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8ß˜‰ö“.
+]
+java:S1161ˆ":Add the "@Override" annotation above this method signature(—Õ¨úÿÿÿÿ8ß˜‰ö“.
+]
+java:S1161‹":Add the "@Override" annotation above this method signature(—Õ¨úÿÿÿÿ8ß˜‰ö“.
+c
+java:S1192z"HDefine a constant instead of duplicating this literal "Confrim" 6 times.(µà¶úÿÿÿÿ
+Y	java:S110›"<This class has 8 parents which is greater than 5 authorized.(øÖÙĞ8ß˜‰ö“.
+s	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òüşÒıÿÿÿÿ8ß˜‰ö“.
+^	java:S125»"<This block of commented-out lines of code should be removed.(º«Ãºûÿÿÿÿ8ß˜‰ö“.
+x
+java:S1192ƒ"[Define a constant instead of duplicating this literal "com/trainBooking/Style.css" 3 times.(Å’¹l8ß˜‰ö“.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ŒŞšÿÿÿÿÿ8ß˜‰ö“.
+u
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(úİó¤ûÿÿÿÿ8ß˜‰ö“.
+J
+java:S1481û"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8ß˜‰ö“.
+š
+java:S1192u"xDefine a constant instead of duplicating this literal "\n***Please select Date and Destination from the GUI***" 6 times.(§ÖÜ½şÿÿÿÿ8ß˜‰ö“.
+Y	java:S110Š"<This class has 8 parents which is greater than 5 authorized.(øÖÙĞ8ß˜‰ö“.
+v
+java:S1192"XDefine a constant instead of duplicating this literal "Select your Destination" 6 times.(ï§î8ß˜‰ö“.
+^	java:S125©"<This block of commented-out lines of code should be removed.(º«Ãºûÿÿÿÿ8ß˜‰ö“.
+i
+java:S1192{"SDefine a constant instead of duplicating this literal "Colombo to Badulla" 7 times.(é­Ÿá
+Y	java:S110­"<This class has 8 parents which is greater than 5 authorized.(øÖÙĞ8ß˜‰ö“.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òüşÒıÿÿÿÿ8ß˜‰ö“.
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÀÃ›üÿÿÿÿ
+t
+java:S1192€"XDefine a constant instead of duplicating this literal "Please Select your Date" 6 times.(¨ÀÃ›üÿÿÿÿ
+:
+java:S1643½"Use a StringBuilder instead.(Ñ“ëÑ8ß˜‰ö“.
+•
+java:S1192k"Define a constant instead of duplicating this literal "\n************************************************************" 5 times.(¬õ°Ê
+Y	java:S125"<This block of commented-out lines of code should be removed.(ÿŒ£Å8ß˜‰ö“.
+l	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÀÃ›üÿÿÿÿ
+]
+java:S1161‘":Add the "@Override" annotation above this method signature(—Õ¨úÿÿÿÿ8ß˜‰ö“.
+l	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÀÃ›üÿÿÿÿ
+g
+java:S2095ğ"IUse try-with-resources or close this "MongoClient" in a "finally" clause.(¯àªÑ8ß˜‰ö“.
+h
+java:S3776j"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(Ûğµ
+Y	java:S125¦"<This block of commented-out lines of code should be removed.(ÿŒ£Å8ß˜‰ö“.
+]
+java:S1161„":Add the "@Override" annotation above this method signature(—Õ¨úÿÿÿÿ8ß˜‰ö“.
+s	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ŒŞšÿÿÿÿÿ8ß˜‰ö“.
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛÜ©8¹ÉöÑ’.
+q
+java:S1192İ"NDefine a constant instead of duplicating this literal "SelectedSeats" 4 times.(„¸í¼øÿÿÿÿ8ß˜‰ö“.
+Y	java:S110‡"<This class has 8 parents which is greater than 5 authorized.(øÖÙĞ8ß˜‰ö“.
+l	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÀÃ›üÿÿÿÿ
+s	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òüşÒıÿÿÿÿ8ß˜‰ö“.
+r	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òüşÒıÿÿÿÿ8ß˜‰ö“.
+^	java:S125‘"<This block of commented-out lines of code should be removed.(º«Ãºûÿÿÿÿ8ß˜‰ö“.
+:
+java:S1643È"Use a StringBuilder instead.(Ñ“ëÑ8ß˜‰ö“.
+s	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß†ııÿÿÿÿ8ß˜‰ö“.
+Y	java:S125•"<This block of commented-out lines of code should be removed.(ÿŒ£Å8ß˜‰ö“.
+s	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ŒŞšÿÿÿÿÿ8ß˜‰ö“.
+^	java:S125‰"<This block of commented-out lines of code should be removed.(Ÿ†ÿüÿÿÿÿ8ß˜‰ö“.
+]
+java:S1161®":Add the "@Override" annotation above this method signature(—Õ¨úÿÿÿÿ8ß˜‰ö“.
+s	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òüşÒıÿÿÿÿ8ß˜‰ö“.
+:
+java:S1643Ö"Use a StringBuilder instead.(Ñ“ëÑ8ß˜‰ö“.
+h
+java:S1192‡"JDefine a constant instead of duplicating this literal "\nDate : " 3 times.(æ«£Æ8ß˜‰ö“.
+l	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÀÃ›üÿÿÿÿ
+g	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é­Ÿá
+Y	java:S125¸"<This block of commented-out lines of code should be removed.(ÿŒ£Å8ß˜‰ö“.
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é­Ÿá
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÀÃ›üÿÿÿÿ
+n	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï§î8ß˜‰ö“.
+g	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é­Ÿá
+n	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï§î8ß˜‰ö“.
+s	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òüşÒıÿÿÿÿ8ß˜‰ö“.
+P
+java:S1481ó"-Remove this unused "document" local variable.(½Ä°¼şÿÿÿÿ8ß˜‰ö“.
+n	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï§î8ß˜‰ö“.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï§î8ß˜‰ö“.
+]
+java:S1161œ":Add the "@Override" annotation above this method signature(—Õ¨úÿÿÿÿ8ß˜‰ö“.
+n	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı´¹È8ß˜‰ö“.
+n	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï§î8ß˜‰ö“.
+f	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é­Ÿá
+u
+java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(×ìá»ûÿÿÿÿ8ß˜‰ö“.
+^	java:S125"<This block of commented-out lines of code should be removed.(º«Ãºûÿÿÿÿ8ß˜‰ö“.
+Y	java:S110ƒ"<This class has 8 parents which is greater than 5 authorized.(øÖÙĞ8ß˜‰ö“.
